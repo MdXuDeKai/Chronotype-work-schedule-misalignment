@@ -62,10 +62,6 @@ The same work schedule may not imply the same biological disruption for differen
 ### Read next
 
 - **Full study document**: `STUDY_OVERVIEW.md`  
-- **Design notes / comparisons**:
-  - `Part1_5_代码分析与说明.md`
-  - `Part2_V2_版本对比与优势总结.md`
-  - `chatmemory/` (archived discussion notes; not the analysis itself)
 
 ---
 
